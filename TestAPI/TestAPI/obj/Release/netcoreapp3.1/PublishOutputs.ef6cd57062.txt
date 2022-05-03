@@ -1,0 +1,8 @@
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\LoadFile\TextFile.txt
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.exe
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.dll
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.deps.json
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.runtimeconfig.json
+D:\测试API\TestAPI\TestAPI\obj\Release\netcoreapp3.1\PubTmp\Out\TestAPI.pdb
